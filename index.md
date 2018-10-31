@@ -4,6 +4,9 @@ layout: default
 
 {% include menu.html %}
 
+<form style="text-align:center;" action="https://tinyletter.com/developeravocados" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/developeravocados', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" name="email" id="tlemail" placeholder="mail@developeravocados.net" /><input type="hidden" value="1" name="embed"/><input id="tlsubmit" type="submit" value="Subscribe" /></form>
+
+
 ## Why Developer Avocados 🥑
 
 A [few](https://www.marythengvall.com/blog/2018/1/31/developer-avocados-the-good-kind-of-fat) [people](https://blog.usejournal.com/the-birth-of-developer-avocados-61e4ac235033) wrote about Developer Avocados  online, and how they were born. We're not going into that here. We just loved the idea of "the good kind of fat" and most importantly:
