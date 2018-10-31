@@ -4,7 +4,7 @@ layout: default
 
 {% include menu.html %}
 
-<form style="text-align:center;" action="https://tinyletter.com/developeravocados" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/developeravocados', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" name="email" id="tlemail" placeholder="mail@developeravocados.net" /><input type="hidden" value="1" name="embed"/><input id="tlsubmit" type="submit" value="Subscribe" /></form>
+<form style="text-align:right;padding-top: 25px;" action="https://tinyletter.com/developeravocados" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/developeravocados', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" name="email" id="tlemail" placeholder="mail@developeravocados.net" /><input type="hidden" value="1" name="embed"/><input id="tlsubmit" type="submit" value="Subscribe" /></form>
 
 
 ## Why Developer Avocados 🥑
@@ -21,4 +21,4 @@ We've always thought there's not eneough Developer Avocados out there, and we wa
 
 So Developer Avocados 🥑 Weekly is a curated list of articles, tweets, resources and CFPs. It saves you time and all the FOMO of missing out. 💌 You could just read the [archive](https://tinyletter.com/developeravocados/archive), but we feel this weekly email in your inbox is going to keep reminding you there is a world of avocados out there, just like you, so please subscribe 💚. We'd appreciate you spreading the word on social media if you like what you see.
 
- <form style="text-align:center;" action="https://tinyletter.com/developeravocados" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/developeravocados', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" name="email" id="tlemail" placeholder="mail@developeravocados.net" /><input type="hidden" value="1" name="embed"/><input id="tlsubmit" type="submit" value="Subscribe" /></form>
+ <form style="text-align:right;" action="https://tinyletter.com/developeravocados" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/developeravocados', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" name="email" id="tlemail" placeholder="mail@developeravocados.net" /><input type="hidden" value="1" name="embed"/><input id="tlsubmit" type="submit" value="Subscribe" /></form>
