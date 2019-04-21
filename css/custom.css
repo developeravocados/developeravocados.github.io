@@ -8,6 +8,10 @@ layout: null
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+.subscribe label{
+  display: none;
+}
+
 .subscribe #tlemail, .subscribe #tlemail-top {
   display: block;
   float: left;
