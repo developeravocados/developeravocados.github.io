@@ -8,7 +8,7 @@ layout: null
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-.subscribe #tlemail {
+.subscribe #tlemail, .subscribe #tlemail-top {
   display: block;
   float: left;
   width: 60%;
@@ -21,7 +21,7 @@ layout: null
   box-shadow: none;
 }
 
-.subscribe #tlsubmit {
+.subscribe #tlsubmit, .subscribe #tlsubmit-top {
   width: 30%;
   margin: 0;
   min-width: 75px;
