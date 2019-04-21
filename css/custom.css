@@ -1,18 +1,14 @@
 ---
+layout: null
 ---
 
-@import "jekyll-theme";
-.main-content table td {
-  border: none;
-}
-.menu {
+.subscribe {
   text-align: right;
-  & h3 {
-    display: inline;
-    vertical-align: middle;
-  }
+  padding-top: 25px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-#tlemail {
+
+.subscribe #tlemail {
   display: block;
   float: left;
   width: 60%;
@@ -24,16 +20,13 @@
   font-size: 14px;
   box-shadow: none;
 }
-form {
-  font-size: 16px;
-  line-height: 20px;
-}
-#tlsubmit {
+
+.subscribe #tlsubmit {
   width: 30%;
   margin: 0;
   min-width: 75px;
-  color: #2e4c13;
-  background-color: #9fb741;
+  color: {{ site.navbar-col }};
+  background-color: {{ site.link-col }};
   display: inline-block;
   white-space: nowrap;
   height: 45px;
@@ -54,4 +47,12 @@ form {
   vertical-align: top;
   -webkit-font-smoothing: antialiased;
   font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: {{ site.link-col }};
+}
+
+.who-avocados .col-md-2 {
+  text-align: center;
 }
