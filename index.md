@@ -5,7 +5,7 @@
   use-site-title: true
 ---
 
-<form class="subscribe" action="https://tinyletter.com/developeravocados" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/developeravocados', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" name="email" id="tlemail" placeholder="mail@developeravocados.net" /><input type="hidden" value="1" name="embed"/><input id="tlsubmit" type="submit" value="Subscribe" /></form>
+<form class="subscribe" action="https://tinyletter.com/developeravocados" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/developeravocados', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><input type="text" name="email" id="tlemail-top" placeholder="mail@developeravocados.net" /><input type="hidden" value="1" name="embed"/><input id="tlsubmit-top" type="submit" value="Subscribe" /></form>
 
 ## Why Developer Avocados 🥑 _Weekly_?
 
