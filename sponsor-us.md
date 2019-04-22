@@ -7,8 +7,8 @@ We've been asked to share job ads in the newsletter for a while now, so we're gi
 
 We're doing sponsorships on a per issue or per month basis for now, and we'll see how that goes.
 
-Per issue. One-off sponsorship. 250 USD per issue.
+_Per issue_. One-off sponsorship. 250 USD per issue.
 
-Per month. You'll get either 4 or 5 issues (depending on the month). 750 USD / 1000 USD per month.
+_Per month_. You'll get either 4 or 5 issues (depending on the month). 750 USD / 1000 USD per month.
 
 If you've had something else in mind, [send us an email](mail@developeravocados.net).
