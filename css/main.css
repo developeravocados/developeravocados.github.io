@@ -244,6 +244,9 @@ img {
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
   }
+  .navbar-brand {
+    display: none;
+  }
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom .nav .navlinks-container {
