@@ -11,4 +11,4 @@ _Per issue_. One-off sponsorship. 250 USD per issue.
 
 _Per month_. You'll get either 4 or 5 issues (depending on the month). 750 USD / 1000 USD per month.
 
-If you've had something else in mind, [send us an email](mail@developeravocados.net).
+If you've had something else in mind, [send us an email](mailto:mail@developeravocados.net).
