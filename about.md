@@ -23,7 +23,7 @@ And that's what we do!
 </div>
 <div class="row who-avocados">
   <div class="col-md-10">
-    <p><a href="https://twitter.com/lakatos88">Laka</a> is a JavaScript Developer Avocado 🥑 for Nexmo. In his spare time he volunteers at Mozilla as a Tech Speaker and a Reps Council member. He does things for T-Shirts. Might also be a coffee snob.😏</p>
+    <p><a href="https://twitter.com/lakatos88">Laka</a> is a Developer Relations 🥑 Manager for Fidel. In his spare time he volunteers at Mozilla as a Tech Speaker and a Reps Mentor. He does things for T-Shirts. Might also be a coffee snob.😏</p>
   </div>
   <div class="col-md-2">
      <p><img alt="Laka" src="/img/laka.png"></p>
