@@ -18,12 +18,12 @@ And that's what we do!
     <p><img alt="Julia" src="/img/julia.png"></p>
   </div>
   <div class="col-md-10">
-    <p><a href="https://twitter.com/iza_biro">Julia</a> is a 3-in-1 bundle of joy, also known as developer avocado 🥑 / community manager / designer for Nexmo. She codes a little, learns a lot, and most importantly, helps provide a good developer experience – yes, there is swag involved.😉</p>
+    <p><a href="https://twitter.com/iza_biro">Julia</a> is a Developer Advocate for Vonage focusing on low-code technologies and integrations. Maker and breaker of things, explorer of yet another builder tool. Forever challenging the barriers to entry of tech, she is passionate about learning and teaching, creating resources for the community.😉</p>
   </div>
 </div>
 <div class="row who-avocados">
   <div class="col-md-10">
-    <p><a href="https://twitter.com/lakatos88">Laka</a> is a JavaScript Developer Avocado 🥑 for Nexmo. In his spare time he volunteers at Mozilla as a Tech Speaker and a Reps Council member. He does things for T-Shirts. Might also be a coffee snob.😏</p>
+    <p><a href="https://twitter.com/lakatos88">Laka</a> is a Developer Avocado 🥑 Manager for Fidel. In his spare time he volunteers at Mozilla as a Tech Speaker and a Reps Mentor. He does things for T-Shirts. Might also be a coffee snob.😏</p>
   </div>
   <div class="col-md-2">
      <p><img alt="Laka" src="/img/laka.png"></p>
