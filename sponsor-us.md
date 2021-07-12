@@ -7,8 +7,8 @@ We've been asked to share job ads and CTAs in the newsletter for a while now, so
 
 We're doing sponsorships on a per issue or per month basis for now, and we'll see how that goes.
 
-_Per issue_. One-off sponsorship. 250 GBP per issue.
+_Per issue_. One-off sponsorship. 500 GBP per issue.
 
-_Bulk_. If you sponsor 3 issues, we'll give you the 4th issue for free. 750 GBP per 4 issues.
+_Bulk_. If you sponsor 3 issues, we'll give you the 4th issue for free. 1500 GBP per 4 issues.
 
 If you've had something else in mind, [send us an email](mailto:mail@developeravocados.net).
