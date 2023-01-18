@@ -2,58 +2,6 @@
 layout: null
 ---
 
-.subscribe {
-  text-align: right;
-  padding-top: 25px;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
-
-.subscribe label{
-  visibility: hidden;
-  display: table-column;
-}
-
-.subscribe #tlemail, .subscribe #tlemail-top {
-  display: block;
-  float: left;
-  width: 60%;
-  margin: 0 10px 0 0;
-  min-width: 200px;
-  padding: 12px 10px 11px 10px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 14px;
-  box-shadow: none;
-}
-
-.subscribe #tlsubmit, .subscribe #tlsubmit-top {
-  width: 30%;
-  margin: 0;
-  min-width: 75px;
-  color: {{ site.navbar-col }};
-  background-color: {{ site.link-col }};
-  display: inline-block;
-  white-space: nowrap;
-  height: 45px;
-  line-height: 42px;
-  margin: 0 5px 0 0;
-  padding: 0 22px;
-  text-decoration: none;
-  text-transform: uppercase;
-  text-align: center;
-  font-weight: bold;
-  font-style: normal;
-  font-size: 14px;
-  cursor: pointer;
-  border: 0;
-  -moz-border-radius: 4px;
-  border-radius: 4px;
-  -webkit-border-radius: 4px;
-  vertical-align: top;
-  -webkit-font-smoothing: antialiased;
-  font-smoothing: antialiased;
-}
-
 h1, h2, h3, h4, h5, h6 {
   color: {{ site.link-col }};
 }
